@@ -89,4 +89,4 @@ Ask questions over your own documents without sending them to a third party. Ful
 
 ## 📫 Let's connect
 
-I'm actively looking for SDE / backend / AI-ML opportunities. If you're hiring or just want to talk shop, reach me on [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) or at **YOUR_EMAIL**.
+I'm actively looking for SDE / backend / AI-ML opportunities. If you're hiring or just want to talk shop, reach me on [LinkedIn](https://www.linkedin.com/in/siddhant-gupta-0a8b19304/) or at **siddhantgupta862@gmail.com**.
