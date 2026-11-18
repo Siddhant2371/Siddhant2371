@@ -79,15 +79,6 @@ Ask questions over your own documents without sending them to a third party. Ful
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" />
-</p>
-
----
-
 ## 🎓 Learning & achievements
 
 - 400+ problems solved on LeetCode (graphs, DP, heaps, greedy)
